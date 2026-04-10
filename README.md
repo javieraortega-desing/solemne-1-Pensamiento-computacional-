@@ -1,5 +1,7 @@
 # Solemne-1-Pensamiento-computacional-
-este repositorio incluirá toda la información de mi solemne 1 
+Este repositorio presenta el proceso de análisis y reconstrucción de la obra *Topaze* de Rogelio Polesello, a través de herramientas digitales y el uso de coordenadas (X, Y). El objetivo fue traducir una imagen visual a un sistema estructurado, comprendiendo sus formas, colores y composición.
+
+A lo largo del trabajo se exploró la relación entre percepción visual y lógica, enfrentando desafíos técnicos que permitieron desarrollar una mejor comprensión del diseño como un proceso tanto analítico como práctico.
 # README.md
 
 ## Información de la obra
