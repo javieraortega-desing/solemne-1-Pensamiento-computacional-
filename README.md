@@ -35,7 +35,9 @@ Se utilizó una grilla en Illustrator para ubicar las figuras dentro de un plano
 
 ### Dificultades encontradas
 
-La principal dificultad fue comprender y aplicar las coordenadas. También fue complejo centrar correctamente las figuras y lograr que coincidieran sus puntos. La selección de colores precisos presentó algunos desafíos.
+-La principal dificultad fue comprender y aplicar las coordenadas. 
+-La selección de colores precisos presentó algunos desafíos.
+-También fue complejo centrar correctamente las figuras y lograr que coincidieran sus puntos. 
 
 ---
 
