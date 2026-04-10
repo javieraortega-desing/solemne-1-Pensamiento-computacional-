@@ -1,4 +1,4 @@
-# Solemne-1-Pensamiento-computacional-
+# Solemne-1-Pensamiento-computacional-Recreación de obra en p5.js
 Este repositorio presenta el proceso de análisis y reconstrucción de la obra *Topaze* de Rogelio Polesello, a través de herramientas digitales y el uso de coordenadas (X, Y). El objetivo fue traducir una imagen visual a un sistema estructurado, comprendiendo sus formas, colores y composición.
 
 A lo largo del trabajo se exploró la relación entre percepción visual y lógica, enfrentando desafíos técnicos que permitieron desarrollar una mejor comprensión del diseño como un proceso tanto analítico como práctico.
@@ -42,3 +42,16 @@ La principal dificultad fue comprender y aplicar las coordenadas. También fue c
 ### Resolución de problemas y reflexión
 
 Las dificultades se resolvieron mediante investigación y práctica. El proceso implicó ensayo y error, ajustando posiciones y valores hasta lograr el resultado. Se aprendió a manejar mejor las coordenadas y a entender el diseño como un sistema estructurado, no solo visual.
+
+---
+
+## Documentación visual
+
+### Proceso de construcción
+
+![Proceso coordenadas]( <img width="1600" height="1200" alt="imagen de proceso colores " src="https://github.com/user-attachments/assets/a0615f1d-57db-419f-b14c-419ac9e42622" />
+  )
+
+### Resultado final
+
+![Resultado final](    )
