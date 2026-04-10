@@ -47,11 +47,21 @@ Las dificultades se resolvieron mediante investigación y práctica. El proceso 
 
 ## Documentación visual
 
-### Proceso de construcción
-![proceso](   )
----
+### Proceso
+
+![Colores](imagenes/imagen de proceso colores .png)
+
+![Color rosa](imagenes/imagen proceso de color rosa.png)
+
+![Inicio código](imagenes/inicio de codigo.png)
+
+![Ordenando cuadrados](imagenes/ordenando los cuadrados en el plano.png)
+
+![Fondo terminado](imagenes/termino de fondo.png)
+
+![Ubicación triángulo](imagenes/ubicacion del triangulo en el plano.png)
+
 
 
 ### Resultado final
 
-![Resultado final](    )
