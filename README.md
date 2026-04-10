@@ -48,9 +48,9 @@ Las dificultades se resolvieron mediante investigación y práctica. El proceso 
 ## Documentación visual
 
 ### Proceso de construcción
+![proceso](   )
+---
 
-![Proceso coordenadas]( <img width="1600" height="1200" alt="imagen de proceso colores " src="https://github.com/user-attachments/assets/a0615f1d-57db-419f-b14c-419ac9e42622" />
-  )
 
 ### Resultado final
 
